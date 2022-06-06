@@ -17,4 +17,3 @@ class Generator:
             password += self.letter_bank[random.randint(0, 62)]
             i += 1
         return password
-        
